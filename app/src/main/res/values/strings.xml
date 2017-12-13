@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SlidingTabs</string>
+    //Section Fragment
+    <string name="section_title_sports">Sports</string>
+    <string name="section_title_technologies">Technologies</string>
+    <string name="section_title_design">Design</string>
+    <string name="section_title_politics">Politics</string>
+    <string name="section_title_movies">Movies</string>
+    <string name="section_content1">Screen 1</string>
+    <string name="section_content2">Screen 2</string>
+    <string name="section_content3">Screen 3</string>
+    <string name="section_content4">Screen 4</string>
+    <string name="section_content5">Screen 5</string>
+
+</resources>
